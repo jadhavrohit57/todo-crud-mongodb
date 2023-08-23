@@ -6,6 +6,6 @@
     * them run application with command
         "$ npm start"
 
-# example request bodies are mention in "curl-requests.md" file
+# example request bodies are mentioned in "curl-requests.md" file
     * curl command can be directly run on shell
     * curl command can be imported ans used with POSTMAN
