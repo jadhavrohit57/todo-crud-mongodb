@@ -8,4 +8,4 @@
 
 # example request bodies are mentioned in "curl-requests.md" file
     * curl command can be directly run on shell
-    * curl command can be imported ans used with POSTMAN
+    * curl command can be imported and used with POSTMAN
